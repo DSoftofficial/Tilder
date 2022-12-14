@@ -1,0 +1,16 @@
+{
+  "name": "tilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dhruba Founder",
+  "license": "ISC",
+  "dependencies": {
+    "app": "^0.1.0",
+    "react": "^18.2.0"
+  }
+}
