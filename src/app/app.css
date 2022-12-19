@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    --main-bg-color: rgb(23, 7, 41);
+}
+
+nav{
+    width: auto;
+    height: auto;
+    display: flex;
+    background: var(--main-bg-color);
+    align-items: center;
+}
+
+#header_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    height: 1vh;
+    padding: 19px;
+}
+
+.options-text-p{
+    font-size: 15px;
+    color: white;
+    padding: 8px;
+}
+.options-text-p:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    color: white;
+    padding: 8px;
+    background-color: rgb(46, 28, 68);
+    border-radius: 6px;
+    width: auto;
+    height: 3px;
+    cursor: pointer;
+}
+
+.filename-rootfolder-editor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 1vh;
+    padding: 20px;
+    padding-left: 20px;
+}
+
+.filename-rootfolder-editor-p{
+    padding: 9px;
+    font-size: 15px;
+    color: white;
+    font-size: 15px;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    /* background-color: var(--main-bg-color); */
+}
+
+.sidebar_icons_look{
+    padding: 20px;
+}
