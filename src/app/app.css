@@ -63,11 +63,20 @@ nav{
 
 .sidebar{
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    padding: 20px;
-    /* background-color: var(--main-bg-color); */
+    background-color: var(--main-bg-color);
+    width: 60px;
+    height: auto;
 }
 
 .sidebar_icons_look{
-    padding: 20px;
+    margin: 20px;
+    font-weight: lighter;
+}
+.sidebar_icons_look:hover{
+    margin: 20px;
+    font-weight: 900;
+    border-bottom: 2px solid gradient();
 }
