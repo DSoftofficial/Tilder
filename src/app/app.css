@@ -62,13 +62,12 @@ nav{
 }
 
 .sidebar{
-    display: flex;
-    justify-content: center;
+    display: table;
     align-items: center;
-    flex-direction: column;
+    /* flex-direction: column; */
     background-color: var(--main-bg-color);
     width: 60px;
-    height: auto;
+    height: 92vh;
 }
 
 .sidebar_icons_look{
@@ -78,5 +77,30 @@ nav{
 .sidebar_icons_look:hover{
     margin: 20px;
     font-weight: 900;
-    border-bottom: 2px solid gradient();
+    border-left: 2px solid white;
+}
+
+
+.sidebar-icons{
+    /* float: inline-start; */
+    align-items: center;
+    width: 60px;
+    height: 92vh;
+    background-color: var(--main-bg-color);
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.sidebar-menu{
+    display: none;
+    border-left: 2px solid whitesmoke;
+    height: 2vh;
+    width: 20vw;
+    background: var(--main-bg-color);
+}
+
+#file_explorer{
+    display: flex;
 }

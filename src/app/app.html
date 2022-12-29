@@ -55,19 +55,33 @@
         </nav>
     </header>
     <div class="sidebar">
-        <div class="sidebar_icons_look" id="file_explorer"><i class="fa-regular fa-file"
-                style="font-size:28px; color:whitesmoke;"></i></div>
-        <div class="sidebar_icons_look" id="go_to"><i class="fa-solid fa-magnifying-glass"
-                style="font-size:28px; color:whitesmoke;"></i></div>
-        <div class="sidebar_icons_look" id="git"><i class="fa-brands fa-git-alt"
-                style="font-size:28px; color:whitesmoke;"></i></div>
-        <div class="sidebar_icons_look" id="debug"><i class="fa-solid fa-bug-slash"
-                style="font-size:28px; color:whitesmoke;"></i></div>
-        <div class="sidebar_icons_look" id="extensions"><i class="fa-solid fa-puzzle-piece"
-                style="font-size:28px; color:whitesmoke;"></i></div>
+        <div class="sidebar-icons">
+            <div class="sidebar_icons_look" id="file_explorer"><i
+                    class="fa-regular fa-file" style="font-size:28px; color:whitesmoke;"></i></div>
+            <div class="sidebar_icons_look" id="go_to"><i class="fa-solid fa-magnifying-glass"
+                    style="font-size:28px; color:whitesmoke;"></i></div>
+            <div class="sidebar_icons_look" id="git"><i class="fa-brands fa-git-alt"
+                    style="font-size:28px; color:whitesmoke;"></i></div>
+            <div class="sidebar_icons_look" id="debug"><i class="fa-solid fa-bug-slash"
+                    style="font-size:28px; color:whitesmoke;"></i></div>
+            <div class="sidebar_icons_look" id="extensions"><i class="fa-solid fa-puzzle-piece"
+                    style="font-size:28px; color:whitesmoke;"></i></div>
+        </div>
+        <div class="sidebar-menu">
+            
+        </div>
     </div>
 </body>
 <script src="app.js"></script>
 <script src="/src/settings/icons/f614d99ea8.js"></script>
-
+<!-- <script>
+    function toggle(file_explorer){
+        var element = document.getElementById(file_explorer);
+        if(element.style.display === "none"){
+            element.style.display = "block";
+        }else{
+            element.style.display = "none";
+        }
+    }
+</script> -->
 </html>
