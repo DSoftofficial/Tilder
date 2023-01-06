@@ -1,1 +1,1 @@
-﻿$test = cd C:
+﻿$test = cd 
