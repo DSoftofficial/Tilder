@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
+
 *{
+    font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
     --main-bg-color: rgb(23, 7, 41);
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
 
 nav{
