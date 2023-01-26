@@ -1,0 +1,39 @@
+{
+    "version": '1.0.0',
+    "tabnine.experimentalAutoImports": true,
+    "vscode-edge-devtools.mirrorEdits": true,
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontSize": 15,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "java.jdt.ls.java.home": "",
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.unicodeHighlight.includeStrings": false,
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "live-reload.autoStart": true,
+    "live-reload.debug": true,
+    "code-runner.showRunCommandInEditorContextMenu": false,
+    "code-runner.showRunCommandInExplorerContextMenu": false,
+    "workbench.editorAssociations": {
+        "*.accdb": "default"
+    },
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "editor.fontWeight": "normal"
+}

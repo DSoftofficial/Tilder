@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "electron": "^22.0.1"
+  },
+  "name": "tilder",
+  "version": "1.0.0",
+  "description": "Tilder ia a swift and efficient IDE.",
+  "main": "src/app/main.js",
+  "devDependencies": {
+    "toastify-js": "^1.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSoftofficial/Tilder.git"
+  },
+  "keywords": [
+    "Conding",
+    "IDE",
+    "HTML",
+    "CSS",
+    "JS",
+    "TypeScript",
+    "Python",
+    "C",
+    "C++",
+    "C#"
+  ],
+  "author": "Dhrubajyoti Biswas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DSoftofficial/Tilder/issues"
+  },
+  "homepage": "https://github.com/DSoftofficial/Tilder#readme"
+}
