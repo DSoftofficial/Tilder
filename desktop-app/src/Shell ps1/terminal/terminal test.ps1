@@ -1,1 +1,4 @@
-﻿$test = cd 
+﻿$cd = "cd"
+if ("$cd") = "cd"{
+    $cdC = C:
+}
