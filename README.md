@@ -11,20 +11,18 @@
   <img alt="VS Code in action" src="https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png">
 </p>
 
-<!-- [Visual Studio Code](https://code.visualstudio.com) is a distribution of the `Code - OSS` repository with Microsoft-specific customizations released under a traditional [Microsoft product license](https://code.visualstudio.com/License/). -->
+[Tilder](https://github.com/DSoftofficial/Tilder) combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
 
-[Visual Studio Code](https://code.visualstudio.com) combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
+Tilder is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Tilders's website](https://github.com/DSoftofficial/Tilder).
 
-Tilder is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Tilders's website](https://code.visualstudio.com/Download).
-
-<!-- ## Contributing
+## Contributing
 
 There are many ways in which you can participate in this project, for example:
 
 * [Submit bugs and feature requests](https://github.com/dsoftofficial/tilder/issues), and help us verify as they are checked in
 * Review [source code changes](https://github.com/dsoftofficial/tilder/pulls)
 
-If you are interested in fixing issues and contributing directly to the code base,
+<!--If you are interested in fixing issues and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
 
 * [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
