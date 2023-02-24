@@ -1,5 +1,5 @@
 # Tilder
-<h3> Tilder is a swift and efficient code editor</h3>
+<h3>Tiler is a light weight code editor that helps as to code efficiently & swiftly. It has powerful efficent features and tools that delivers you with your powerful code. It supports 100+ language & uses Monaco-editor</h3>
 <!-- [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode) -->
