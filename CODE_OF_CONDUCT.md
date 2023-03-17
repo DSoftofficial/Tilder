@@ -6,7 +6,7 @@ A primary goal of Tilder is to be inclusive to the largest number of contributor
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Tilder to help us create safe and positive experiences for everyone.
+We invite all those who participate in Tilder to help us create safe and positive experiences for everyone as each commits affect the whole community/organization.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
