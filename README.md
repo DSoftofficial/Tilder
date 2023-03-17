@@ -9,7 +9,7 @@ Tiler is a light weight code editor that helps as to code efficiently & swiftly.
 
 [Tilder](https://github.com/DSoftofficial/Tilder) combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
 
-Tilder is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Tilders's website](https://github.com/DSoftofficial/Tilder).
+Tilder is updated monthly to it's new version with wonderful features and bug fixes. You can download it for Windows, macOS, and Linux on [Tilders's website](https://github.com/DSoftofficial/Tilder).
 
 ## Contributing
 
@@ -18,6 +18,7 @@ There are many ways in which you can participate in this project, for example:
 * [Submit bugs and feature requests](https://github.com/dsoftofficial/tilder/issues), and help us verify as they are checked in
 * Review [source code changes](https://github.com/dsoftofficial/tilder/pulls)
 
+If anyone is interested in contributing in Tilder.Then read this wiki:[]
 <!--If you are interested in fixing issues and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
 
