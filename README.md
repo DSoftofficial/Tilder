@@ -1,7 +1,7 @@
 # Tilder
 Tiler is a light weight code editor that helps as to code efficiently & swiftly. It has powerful efficent features and tools that delivers you with your powerful code. It supports 100+ language & uses Monaco-editor
 
- :fireworks: **Languages** :fireworks:
+**Languages**
 ---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
