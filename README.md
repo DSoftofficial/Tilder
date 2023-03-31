@@ -29,7 +29,7 @@ There are many ways in which you can contribute in this project, for example:
 
 * [Submit bugs and feature requests](https://github.com/dsoftofficial/tilder/issues), and help us verify as they are checked in
 * Review [source code changes](https://github.com/dsoftofficial/tilder/pulls)
-* 
+
 <!--If you are interested in fixing issues and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
 
