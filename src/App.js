@@ -1,9 +1,11 @@
 import './css/App.css';
 import MenuBar from './components/MenuBar';
-import FileExplorerSideBar from './components/FileExplorerSideBar';
+import FileExplorerSideBar from './components/SideBar/FileExplorerSideBar';
 import PropTypes from 'prop-types'
-import SearchSideBar from './components/SearchSideBar'
+import SearchSideBar from './components/SideBar/SearchSideBar'
 import './css/MenuBar.css'
+
+
 
 function App() {
   return (
@@ -11,7 +13,6 @@ function App() {
       <MenuBar />
       <FileExplorerSideBar/>
       <SearchSideBar/>
-      
     </>
   )
 }
