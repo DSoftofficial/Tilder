@@ -1,12 +1,13 @@
 import React, {useState} from 'react'
+// import './css/MenuBar.css';
 
 export default function MenuBar() {
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="./web-app/tilder-web/src/App.js">
-            <img src="%PUBLIC_URL%/favicon_io/favicon-16x16.png" alt="" srcset="" />
+          <a className="navbar-brand" href="/">
+            <img src="/web-app/tilder-web/src/imgs/Tilder-icon-header.png" alt="" srcset="" />
           </a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
