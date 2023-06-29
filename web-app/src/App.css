@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-body-tertiary{
+
+    width: auto;
+    height: 3.8vh;
+}
+
+.body-bg-main{
+    background-color: rgb(73, 44, 109);
+}
