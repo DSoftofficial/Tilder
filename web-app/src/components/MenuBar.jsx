@@ -6,12 +6,12 @@ import React from 'react'
 
 function MenuBar() {
   return (
-    <Navbar className="bg-body-tertiary">
-      <Container className="body-bg-main">
-        <Navbar.Brand href="#home"></Navbar.Brand>
+    <Navbar classNameName="bg-body-tertiary">
+      <Container classNameName="body-bg-main">
+        <Navbar.Brand href="#home" classNameName="text"></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
+        <Navbar.Collapse id="basic-navbar-nav" className="text">
+          <Nav classNameName="me-auto">
             <Nav.Link href="#link">Link</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
