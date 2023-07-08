@@ -1,33 +1,24 @@
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import React from 'react'
 
 function MenuBar() {
   return (
-    <Navbar classNameName="bg-body-tertiary">
-      <Container classNameName="body-bg-main">
-        <Navbar.Brand href="#home" classNameName="text"></Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav" className="text">
-          <Nav classNameName="me-auto">
-            <Nav.Link href="#link">Link</Nav.Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">
-                Separated link
-              </NavDropdown.Item>
-            </NavDropdown>
-          </Nav>
-        </Navbar.Collapse>
-      </Container>
-    </Navbar>
+    <>
+      <header>
+        <nav>
+          <div id="header_icon">
+            <img src="/Tilder_icon.png" alt="tilder_icon_header" aria-label='Tilder' />
+          </div>
+          <div className="navigation">
+            <div className="dropdrown-navigation">
+              <button className='dropdown-trigger-btn'>File</button>
+              <div className="contents">
+                <a href="/">New File</a><br/>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </header>
+    </>
   );
 }
 
