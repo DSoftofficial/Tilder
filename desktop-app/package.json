@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "electron": "^22.3.21"
+    "electron": "^22.3.24"
   },
   "name": "tilder",
   "version": "1.0.0",
