@@ -1,5 +1,7 @@
 # Tilder
-Tiler is a light weight code editor that helps as to code efficiently & swiftly. It has powerful efficent features and tools that delivers you with your powerful code. It supports 100+ language & uses Monaco-editor
+Tilder is a light weight code editor that helps as to code efficiently & swiftly. It has powerful efficent features and tools that delivers you with your powerful code. It supports 100+ language & uses Monaco-editor
+
+![image](https://github.com/DSoftofficial/Tilder/assets/108980710/254f1a0f-f90b-40e8-824b-0054286651b7)
 
 **Languages**
 ---
